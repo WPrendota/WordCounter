@@ -1,4 +1,4 @@
-**The Word Counter - different approaches**
+# **The Word Counter - different approaches**
 
 ## Technologies:
 ### - [Python](https://www.python.org),
