@@ -11,7 +11,7 @@ The examples of different approaches for the word counter execution.
 --- 
 
 ## Deployment
-Download the **SimpleCalculator.py** file and run it.
+Download the **WordCounter.py** file and run it.
 
 ---
 
